@@ -12,6 +12,7 @@
         <module>out-of-order</module>
         <module>restart-policy</module>
         <module>upgrade</module>
+        <module>topology</module>
     </modules>
 
 
