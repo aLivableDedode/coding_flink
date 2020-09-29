@@ -5,7 +5,7 @@ import org.apache.flink.streaming.api.functions.ProcessFunction;
 import org.apache.flink.util.OutputTag;
 
 /**
- *  拓扑结构变化
+ *  拓扑结构变化 需求
  */
 public class TopologyChanges {
     public static void main(String[] args) {
